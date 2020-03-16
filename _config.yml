@@ -1,3 +1,22 @@
 theme: jekyll-theme-lanyon
 title: Eli Mattingly Test Page
 Description: Test Description
+
+tagline:             'A Jekyll test page'
+url:                 https://github.com/OS-MPI
+
+baseurl:             ''
+
+paginate:            5
+
+
+
+# About/contact
+
+author:
+
+  name:              Eli Mattingly
+
+
+
+  email:             ematting@mit.edu
