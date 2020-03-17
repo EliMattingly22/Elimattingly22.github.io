@@ -25,7 +25,7 @@ gallery:
   - url: /assets/images/Projects/Art/Frustration_Sculpture.png
     image_path: /assets/images/Projects/Art/Venus_deMilo.png
     alt: "placeholder image 4"
-  - url: /assets/images/Projects/Art/Frustration_Sculpture
+  - url: https://github.com/EliMattingly22
     image_path: /assets/images/Projects/Art/Venus_deMilo.png
     alt: "placeholder image 5"
   - url: /assets/images/Projects/Art/Frustration_Sculpture.png
