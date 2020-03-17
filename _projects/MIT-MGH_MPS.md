@@ -3,8 +3,8 @@ title: "Spectroscopy/magetometry system"
 excerpt: "This is a SPION characterizing platform system from the MIT/MGH group"
 layout: splash
 Header:
-  image: /assets/images/Projects/Engineering/MPI/MPS/System_Photo_1.jpg
-  teaser: /assets/images/Projects/Engineering/MPI/MPS/System_Photo_1.jpg
+  image: /assets/images/Projects/Art/Frustration_Sculpture.png
+  teaser: /assets/images/Projects/Art/Venus_deMilo.png
 sidebar:
   - title: "Spectroscopy/magnetometry system"
     image: /assets/images/Projects/Engineering/MPI/MPS/System_Photo_1.jpg
