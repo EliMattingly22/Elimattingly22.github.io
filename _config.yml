@@ -100,3 +100,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+projects_archive:
+  type: liquid
+  path: /projects/
+  
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
