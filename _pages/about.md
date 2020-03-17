@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/Projects/Art/Venus_deMilo.png
 sidebar:
   - title: "Side"
-    image: http://placehold.it/350x250
+    image: /assets/images/Projects/Art/Venus_deMilo.png
     image_alt: "logo"
     text: "Art Art Text"
   - title: "title"
