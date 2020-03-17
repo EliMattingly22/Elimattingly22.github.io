@@ -22,7 +22,17 @@ gallery:
   - url: /assets/images/Projects/Art/Frustration_Sculpture.png
     image_path: /assets/images/Projects/Art/Venus_deMilo.png
     alt: "placeholder image 3"
+  - url: /assets/images/Projects/Art/Frustration_Sculpture.png
+    image_path: /assets/images/Projects/Art/Venus_deMilo.png
+    alt: "placeholder image 4"
+  - url: /assets/images/Projects/Art/Frustration_Sculpture
+    image_path: /assets/images/Projects/Art/Venus_deMilo.png
+    alt: "placeholder image 5"
+  - url: /assets/images/Projects/Art/Frustration_Sculpture.png
+    image_path: /assets/images/Projects/Art/Venus_deMilo.png
+    alt: "placeholder image 6"
 ---
 
 
 Test
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
