@@ -1,36 +1,28 @@
 ---
-title: "ArtPage2"
-excerpt: "TestTestTestTest"
-
-header:
-  image: /assets/images/Projects/Art/Frustration_Sculpture.png
-  teaser: /assets/images/Projects/Art/Venus_deMilo.png
+title: "Spectroscopy/magetometry system"
+excerpt: "This is a SPION characterizing platform system from the MIT/MGH group"
+permalink: /MIT-MGH_MPS/
+layout: single
+Header:
+  teaser: /assets/images/Projects/Engineering/MPI/MPS/System_Photo_1.jpg
 sidebar:
-  - title: "Side"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Art Art Text"
-  - title: "title"
-    text: "text"
+  - title: "Spectroscopy/magnetometry system"
+    image: /assets/images/Projects/Engineering/MPI/MPS/System_Photo_1.jpg
+    image_alt: "System photo"
+    text: "System photo"
+  - title: "Specifications"
+    text: "Drive amplitude up to 20mT, Bias amplitude up to 50mT"
+    
 gallery:
-  - url: /assets/images/Projects/Art/Frustration_Sculpture.png
-    image_path: /assets/images/Projects/Art/Venus_deMilo.png
-    alt: "placeholder image 1"
-  - url: /assets/images/Projects/Art/Frustration_Sculpture.png
-    image_path: /assets/images/Projects/Art/Venus_deMilo.png
-    alt: "placeholder image 2"
-  - url: /assets/images/Projects/Art/Frustration_Sculpture.png
-    image_path: /assets/images/Projects/Art/Venus_deMilo.png
-    alt: "placeholder image 3"
-  - url: /assets/images/Projects/Art/Frustration_Sculpture.png
-    image_path: /assets/images/Projects/Art/Venus_deMilo.png
-    alt: "placeholder image 4"
-  - url: https://github.com/EliMattingly22
-    image_path: /assets/images/Projects/Art/Venus_deMilo.png
-    alt: "placeholder image 5"
-  - url: /assets/images/Projects/Art/Frustration_Sculpture.png
-    image_path: /assets/images/Projects/Art/Venus_deMilo.png
-    alt: "placeholder image 6"
+  - url: /assets/images/Projects/Engineering/MPI/MPS/System_Photo_1.jpg
+    image_path: /assets/images/Projects/Engineering/MPI/MPS/System_Photo_1.jpg
+    alt: "System Image"
+  - url: /assets/images/Projects/Engineering/MPI/MPS/VivoSpectroscopy.bmp
+    image_path: /assets/images/Projects/Engineering/MPI/MPS/VivoSpectroscopy.bmp
+    alt: "Example of spectroscopy with VivoTrax"
+  - url: /assets/images/Projects/Engineering/MPI/MPS/MagnetizationCurves.bmp
+    image_path: /assets/images/Projects/Engineering/MPI/MPS/MagnetizationCurves.bmp
+    alt: "Sample magnetization curves with VivoTrax and OceanNano SPP-25-25"
 ---
 
 
