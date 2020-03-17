@@ -1,7 +1,6 @@
 ---
 title: "Spectroscopy/magetometry system"
 excerpt: "This is a SPION characterizing platform system from the MIT/MGH group"
-permalink: /MIT-MGH_MPS/
 layout: splash
 Header:
   image: /assets/images/Projects/Engineering/MPI/MPS/System_Photo_1.jpg
