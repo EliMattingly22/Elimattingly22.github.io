@@ -1,39 +1,36 @@
 ---
-title: "ArtPage1"
-excerpt: "TestTestTestTest"
-permalink: /Project_1/
+title: "Small-Bore Imager"
+excerpt: "This is a Small-bore, FFL-based MPI system from the MIT/MGH group"
+permalink: /MIT-MGH_SmallBore/
 layout: single
-header:
-  image: /assets/images/Projects/Art/Frustration_Sculpture.png
-  teaser: /assets/images/Projects/Art/Venus_deMilo.png
+
 sidebar:
-  - title: "Side"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Art Art Text"
-  - title: "title"
-    text: "text"
+  - title: "Small-Bore FFL Imager"
+    image: /assets/images/Projects/Engineering/MPI/SBI/SBI_V1.png
+    image_alt: "System Rendering"
+    text: "Digital Rendering of the system"
+  - title: "Specifications"
+    text: "Gradient: 2.8T/m"
+    text: "Bore ID: 50mm"
+    
 gallery:
-  - url: /assets/images/Projects/Art/Frustration_Sculpture.png
-    image_path: /assets/images/Projects/Art/Venus_deMilo.png
-    alt: "placeholder image 1"
-  - url: /assets/images/Projects/Art/Frustration_Sculpture.png
-    image_path: /assets/images/Projects/Art/Venus_deMilo.png
-    alt: "placeholder image 2"
-  - url: /assets/images/Projects/Art/Frustration_Sculpture.png
-    image_path: /assets/images/Projects/Art/Venus_deMilo.png
-    alt: "placeholder image 3"
-  - url: /assets/images/Projects/Art/Frustration_Sculpture.png
-    image_path: /assets/images/Projects/Art/Venus_deMilo.png
-    alt: "placeholder image 4"
-  - url: https://github.com/EliMattingly22
-    image_path: /assets/images/Projects/Art/Venus_deMilo.png
-    alt: "placeholder image 5"
-  - url: /assets/images/Projects/Art/Frustration_Sculpture.png
-    image_path: /assets/images/Projects/Art/Venus_deMilo.png
-    alt: "placeholder image 6"
+  - url: /assets/images/Projects/Engineering/MPI/SBI/SBI_Vid.wmv
+    image_path: /assets/images/Projects/Engineering/MPI/SBI/SBI_Vid.wmv
+    alt: "Rotation simulation"
+  - url: /assets/images/Projects/Engineering/MPI/SBI/Inside_Bore.png
+    image_path: /assets/images/Projects/Engineering/MPI/SBI/Inside_Bore.png
+    alt: "Rendering of rails and coils"
+  - url: /assets/images/Projects/Engineering/MPI/SBI/M-Phantom.png
+    image_path: /assets/images/Projects/Engineering/MPI/SBI/M-Phantom.png
+    alt: "M Phantom image example"
+  - url: /assets/images/Projects/Engineering/MPI/SBI/Rotary_Union.png
+    image_path: /assets/images/Projects/Engineering/MPI/SBI/Rotary_Union.png
+    alt: "Rotary union cutaway view"
+
 ---
 
+This is the FFL-based small bore imager developed by the MIT/MGH group. 
+# [Link to Files](https://github.com/OS-MPI/Small-Bore-Imager)
+# [Link to Wiki](https://github.com/OS-MPI/Small-Bore-Imager/wiki)
 
-Test
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="This is a set of representative rendering and images of the system" %}
