@@ -11,8 +11,7 @@ sidebar:
     image_alt: "System Rendering"
     text: "Digital Rendering of the system"
   - title: "Specifications"
-    text: "Gradient: 2.8T/m"
-    text: "Bore ID: 50mm"
+    text: "Gradient: 2.8T/m \s\s Bore ID: 50mm"
     
 gallery:
   - url: /assets/images/Projects/Engineering/MPI/SBI/Inside_Bore.png
