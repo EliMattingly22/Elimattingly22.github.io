@@ -14,9 +14,6 @@ sidebar:
     text: "Bore ID: 50mm"
     
 gallery:
-  - url: /assets/images/Projects/Engineering/MPI/SBI/SBI_Vid.wmv
-    image_path: /assets/images/Projects/Engineering/MPI/SBI/SBI_Vid.wmv
-    alt: "Rotation simulation"
   - url: /assets/images/Projects/Engineering/MPI/SBI/Inside_Bore.png
     image_path: /assets/images/Projects/Engineering/MPI/SBI/Inside_Bore.png
     alt: "Rendering of rails and coils"
