@@ -3,7 +3,8 @@ title: "Small-Bore Imager"
 excerpt: "This is a Small-bore, FFL-based MPI system from the MIT/MGH group"
 permalink: /MIT-MGH_SmallBore/
 layout: single
-
+Header:
+  teaser: /assets/images/Projects/Engineering/MPI/SBI/SBI_V1.png
 sidebar:
   - title: "Small-Bore FFL Imager"
     image: /assets/images/Projects/Engineering/MPI/SBI/SBI_V1.png
