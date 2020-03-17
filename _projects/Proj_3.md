@@ -1,7 +1,7 @@
 ---
 title: "ArtPage1"
 excerpt: "TestTestTestTest"
-permalink: /Project_3/
+layout: splash
 header:
   image: /assets/images/Projects/Art/Frustration_Sculpture.png
   teaser: /assets/images/Projects/Art/Venus_deMilo.png
