@@ -23,7 +23,6 @@ gallery:
   - url: /assets/images/Projects/Engineering/MPI/SBI/Rotary_Union.png
     image_path: /assets/images/Projects/Engineering/MPI/SBI/Rotary_Union.png
     alt: "Rotary union cutaway view"
-
 ---
 
 This is the FFL-based small bore imager developed by the MIT/MGH group. 
