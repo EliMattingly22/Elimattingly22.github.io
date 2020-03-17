@@ -100,7 +100,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-projects_archive:
+project_archive:
   type: liquid
   path: /projects/
   
