@@ -26,6 +26,7 @@ gallery:
     alt: "Sample magnetization curves with VivoTrax and OceanNano SPP-25-25"
 ---
 
-
-Test
+This is the "MPS" device developed by the MIT/MGH group which is intended to be a cheap and accesible platform for characterizing SPIONs. 
+# [Link to Files](https://github.com/OS-MPI/MPS)
+# [Link to Wiki](https://github.com/OS-MPI/MPS/wiki)
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
