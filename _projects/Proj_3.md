@@ -1,5 +1,5 @@
 ---
-title: "ArtPage1"
+title: "ArtPage3"
 excerpt: "TestTestTestTest"
 layout: splash
 header:
