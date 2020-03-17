@@ -1,7 +1,7 @@
 ---
 title: "ArtPage1"
 excerpt: "TestTestTestTest"
-    permalink: /art/
+permalink: /art/
 header:
   image: /assets/images/Projects/Art/Frustration_Sculpture.png
   teaser: /assets/images/Projects/Art/Venus_deMilo.png
@@ -22,8 +22,6 @@ gallery:
   - url: /assets/images/Projects/Art/Frustration_Sculpture.png
     image_path: /assets/images/Projects/Art/Venus_deMilo.png
     alt: "placeholder image 3"
-    
-
 ---
 
 
