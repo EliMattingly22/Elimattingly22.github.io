@@ -3,8 +3,8 @@ title: "ArtPage3"
 excerpt: "TestTestTestTest"
 layout: single
 header:
-  image: /assets/images/Projects/Art/Frustration_Sculpture.png
-  teaser: /assets/images/Projects/Art/Venus_deMilo.png
+  image: /assets/images/Projects/Engineering/MPI/Winding/Jig_Image.png
+  teaser: /assets/images/Projects/Engineering/MPI/Winding/Jig_Image.png
 sidebar:
   - title: "Side"
     image: http://placehold.it/350x250
@@ -13,26 +13,17 @@ sidebar:
   - title: "title"
     text: "text"
 gallery:
-  - url: /assets/images/Projects/Art/Frustration_Sculpture.png
-    image_path: /assets/images/Projects/Art/Venus_deMilo.png
-    alt: "placeholder image 1"
-  - url: /assets/images/Projects/Art/Frustration_Sculpture.png
-    image_path: /assets/images/Projects/Art/Venus_deMilo.png
-    alt: "placeholder image 2"
-  - url: /assets/images/Projects/Art/Frustration_Sculpture.png
-    image_path: /assets/images/Projects/Art/Venus_deMilo.png
-    alt: "placeholder image 3"
-  - url: /assets/images/Projects/Art/Frustration_Sculpture.png
-    image_path: /assets/images/Projects/Art/Venus_deMilo.png
-    alt: "placeholder image 4"
-  - url: https://github.com/EliMattingly22
-    image_path: /assets/images/Projects/Art/Venus_deMilo.png
-    alt: "placeholder image 5"
-  - url: /assets/images/Projects/Art/Frustration_Sculpture.png
-    image_path: /assets/images/Projects/Art/Venus_deMilo.png
-    alt: "placeholder image 6"
+  - url: /assets/images/Projects/Engineering/MPI/Winding/Jig_Image.png
+    image_path: /assets/images/Projects/Engineering/MPI/Winding/Jig_Image.png
+    alt: "Digital Rendering of the system"
+  - url: /assets/images/Projects/Engineering/MPI/Winding/Wound_Coil.jpg
+    image_path: /assets/images/Projects/Engineering/MPI/Winding/Wound_Coil.jpg
+    alt: "Image of a wound coil"
+ 
 ---
 
 
-Test
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+This is the device designed by the MGH/MIT group to assist in the manufacture of electromagnets. 
+# [Link to Files](https://github.com/OS-MPI/MPS)
+# [Link to Wiki](https://github.com/OS-MPI/MPS/wiki)
+{% include gallery caption="Sample images" %}
