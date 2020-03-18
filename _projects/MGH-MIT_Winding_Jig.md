@@ -6,12 +6,10 @@ header:
   image: /assets/images/Projects/Engineering/MPI/Winding/Jig_Image.png
   teaser: /assets/images/Projects/Engineering/MPI/Winding/Jig_Image.png
 sidebar:
-  - title: "Side"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Art Art Text"
-  - title: "title"
-    text: "text"
+  - title: "Winding Jig"
+    image: /assets/images/Projects/Engineering/MPI/Winding/Jig_Image.png
+    image_alt: "Rendering"
+
 gallery:
   - url: /assets/images/Projects/Engineering/MPI/Winding/Jig_Image.png
     image_path: /assets/images/Projects/Engineering/MPI/Winding/Jig_Image.png
