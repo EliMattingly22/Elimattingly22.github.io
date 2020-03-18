@@ -2,7 +2,7 @@
 title: "Spectroscopy/magetometry system"
 excerpt: "This is a SPION characterizing platform system from the MIT/MGH group"
 layout: splash
-Header:
+header:
   image: /assets/images/Projects/Art/Frustration_Sculpture.png
   teaser: /assets/images/Projects/Art/Venus_deMilo.png
 sidebar:
@@ -12,6 +12,7 @@ sidebar:
     text: "System photo"
   - title: "Specifications"
     text: "Drive amplitude up to 20mT, Bias amplitude up to 50mT"
+    text: "text2"
     
 gallery:
   - url: /assets/images/Projects/Engineering/MPI/MPS/System_Photo_1.jpg
