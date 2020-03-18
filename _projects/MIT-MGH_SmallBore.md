@@ -13,6 +13,12 @@ sidebar:
     text: "Digital Rendering of the system"
   - title: "Specifications"
     text: "Gradient: 2.8T/m Bore ID: 50mm"
+ tags:
+  - FFL
+  - Imager
+  - Hardware
+  - MGH-MIT
+    
     
 gallery:
   - url: /assets/images/Projects/Engineering/MPI/SBI/Inside_Bore.png
