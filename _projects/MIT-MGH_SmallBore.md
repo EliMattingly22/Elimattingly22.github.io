@@ -13,6 +13,9 @@ sidebar:
     text: "Digital Rendering of the system"
   - title: "Specifications"
     text: "Gradient: 2.8T/m Bore ID: 50mm"
+  - title: "Funding"
+    text: "This project was made possible by the following grant numbers: NIBIB U01EB025121 NIMH R24106053 and NSF GRFP 1122374"
+
 tags:
   - FFL
   - Imager
