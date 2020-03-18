@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "MR Physics and Instrumentation Group"
+  name   : "MR-PIGS"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "We are a group working out of the Martinos Center in Charlestown, MA, USA,focusing on developing MPI technologies for neuroimaging and cancer interventions."
   links: "https://nmr.mgh.harvard.edu/lab/mr-pig"
