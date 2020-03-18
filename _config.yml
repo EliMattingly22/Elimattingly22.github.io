@@ -12,11 +12,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Eli Mattingly Test Site
+title: Open-Source Magnetic Particle Imaging
 email: ematting@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a test platform for future projects 
-github_username: Elimattingly22
+  An open-source initiative to support development in MPI 
+github_username: OS-MPI
 minimal_mistakes_skin: default
 search: true
 # Build settings
