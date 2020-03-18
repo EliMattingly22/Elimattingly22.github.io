@@ -13,6 +13,11 @@ sidebar:
   - title: "Specifications"
     text: "Drive amplitude up to 20mT, Bias amplitude up to 50mT"
     text: "text2"
+tags:
+  - SPION
+  - MPS
+  - Hardware
+  - MGH-MIT
     
 gallery:
   - url: /assets/images/Projects/Engineering/MPI/MPS/System_Photo_1.jpg
