@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Eli Mattingly Test Site
+title: Open-Source Magnetic Particle Imaging
 email: ematting@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a test platform for future projects 
-github_username: Elimattingly22
+  An open-source initiative to support development in MPI 
+github_username: OS-MPI
 minimal_mistakes_skin: default
 search: true
 
@@ -56,14 +56,14 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Eli Mattingly"
+  name   : "MR Physics and Instrumentation Group"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a Ph.D. Student in the Health Sciences and Technology program at MIT and Harvard Medical School. My research focuses on scaling MPI to the clinical level."
-  links:
+  bio    : "We are a group working out of the Martinos Center in Charlestown, MA, USA,focusing on developing MPI technologies for neuroimaging and cancer interventions."
+  links: "https://nmr.mgh.harvard.edu/lab/mr-pig"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/OS-MPI"
 
 
 footer:
@@ -71,7 +71,7 @@ footer:
     
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/OS-MPI"
     
 
 defaults:
@@ -82,7 +82,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
