@@ -1,6 +1,6 @@
 ---
-title: "ArtPage3"
-excerpt: "TestTestTestTest"
+title: "Winding Jig"
+excerpt: "A machine to help manufacture electromagnets"
 layout: single
 header:
   image: /assets/images/Projects/Engineering/MPI/Winding/Jig_Image.png
