@@ -3,12 +3,13 @@ title: "Winding Jig"
 excerpt: "A machine to help manufacture electromagnets"
 layout: single
 header:
-  image: /assets/images/Projects/Engineering/MPI/Winding/Jig_Image.png
   teaser: /assets/images/Projects/Engineering/MPI/Winding/Jig_Image.png
 sidebar:
   - title: "Winding Jig"
     image: /assets/images/Projects/Engineering/MPI/Winding/Jig_Image.png
     image_alt: "Rendering"
+  - title: "Funding"
+    text: "This project was made possible by the following grant numbers: NIBIB U01EB025121 NIMH R24106053 and NSF GRFP 1122374"
 
 gallery:
   - url: /assets/images/Projects/Engineering/MPI/Winding/Jig_Image.png
