@@ -13,7 +13,7 @@ sidebar:
     text: "Digital Rendering of the system"
   - title: "Specifications"
     text: "Gradient: 2.8T/m Bore ID: 50mm"
- tags:
+tags:
   - FFL
   - Imager
   - Hardware
