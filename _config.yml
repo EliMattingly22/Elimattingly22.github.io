@@ -58,17 +58,17 @@ author:
 
   avatar : "/assets/images/bio-photo.jpg"
 
-  bio    : "I am a Ph.D. Student in the Health Sciences and Technology program at MIT and Harvard Medical School. My research focuses on scaling MPI to the clinical level."
+  bio    : "We are a group working out of the Martinos Center in Charlestown, MA, USA,focusing on developing MPI technologies for neuroimaging and cancer interventions."
 
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/OS-MPI"
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/OS-MPI"
 
     
 defaults:
