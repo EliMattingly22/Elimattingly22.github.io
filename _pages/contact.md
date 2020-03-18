@@ -6,7 +6,7 @@ header:
   overlay_filter: 0.5
 
 sidebar:
-  - title: "With comment, questions or concerns please contact:"
+  - title: "With comments, questions or concerns please contact:"
     text: "Eli Mattingly: ematting@mit.edu"
 
 ---
