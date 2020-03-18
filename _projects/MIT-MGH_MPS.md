@@ -12,6 +12,9 @@ sidebar:
   - title: "Specifications"
     text: "Drive amplitude up to 20mT, Bias amplitude up to 50mT"
     text: "text2"
+  - title: "Funding"
+    text: "This project was made possible by the following grant numbers: NIBIB U01EB025121 NIMH R24106053 and NSF GRFP 1122374"
+
 tags:
   - SPION
   - MPS
