@@ -7,13 +7,13 @@ layout: archive
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% if paginator %}
-  {% assign projects = paginator.projects %}
+  {% assign posts = paginator.posts %}
 {% else %}
-  {% assign projects = site.projects %}
+  {% assign posts = site.posts %}
 {% endif %}
 
-{% for projects in projects %}
-  {% include archive-single.html %}
+{% for post in posts %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
 
 {% include paginator.html %}
