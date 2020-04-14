@@ -12,11 +12,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Open-Source Magnetic Particle Imaging
+title: Eli Mattingly's GitHub Site
 email: ematting@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  An open-source initiative to support development in MPI 
-github_username: OS-MPI
+  A site that hosts the projects which I have worked on, Art, Engineering, or otherwise
+github_username: EliMattingly22
 minimal_mistakes_skin: default
 search: true
 # Build settings
@@ -30,6 +30,7 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
+  - _posts
   - _projects
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -54,11 +55,11 @@ plugins:
 
 author:
 
-  name   : "Magnetic Resonance Physics and Instrumentation Group"
+  name   : "Eli Mattingly"
 
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Headshot_Square2.jpg"
 
-  bio    : "We are a group working out of the Martinos Center in Charlestown, MA, USA,focusing on developing MPI technologies for neuroimaging and cancer interventions."
+  bio    : " "
 
   links:
     - label: "GitHub"
