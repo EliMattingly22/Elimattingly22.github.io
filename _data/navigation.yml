@@ -1,9 +1,15 @@
 main:
+  - title: "Art"
+    url: /Art/
+  - title: "Research"
+    url: /Art/
   - title: "Projects"
-    url: /projects/
+    url: /Projects/
+  - title: "Blog"
+    url: /year-archive/
   - title: "Contact"
     url: /contact/
   - title: "About"
     url: /about/
-  - title: "Add your project"
-    url: /contribute/
+  - title: "Tags"
+    url: /tags/
