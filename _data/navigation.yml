@@ -1,12 +1,12 @@
 main:
   - title: "Art"
-    url: /Art/
+    url: /art/
   - title: "Research"
-    url: /Art/
+    url: /research/
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
   - title: "Blog"
-    url: /year-archive/
+    url: /posts/
   - title: "Tags"
     url: /tags/    
   - title: "Contact"
