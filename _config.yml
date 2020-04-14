@@ -80,14 +80,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+      comments: true
+      share: true
   - scope:
       path: "_projects"
       type: projects
     values:
-
       layout: single
-
-      author_profile: false
+      author_profile: true
+      comments: true
+      share: true
 category_archive:
   type: liquid
   path: /categories/
@@ -97,5 +99,10 @@ tag_archive:
 collections:
   projects:
     output: true
-
+    permalink: /:collection/:path/
+  Art:
+    output: true
+    permalink: /:collection/:path/
+  Research:
+    output: true
     permalink: /:collection/:path/
