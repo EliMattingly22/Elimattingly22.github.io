@@ -6,6 +6,7 @@ header:
   overlay_filter: 0.5
 
 sidebar:
+layout: single
 
 
 ---
