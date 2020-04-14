@@ -6,5 +6,4 @@ collection: art
 entries_layout: grid
 classes: wide
 ---
-
-Sample document listing for the collection `_art`.
+Here is a listing of the current art projects that I have mustered the motivation to post here. Enjoy!
