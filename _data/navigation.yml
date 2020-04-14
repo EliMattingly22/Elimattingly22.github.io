@@ -7,9 +7,10 @@ main:
     url: /Projects/
   - title: "Blog"
     url: /year-archive/
+  - title: "Tags"
+    url: /tags/    
   - title: "Contact"
     url: /contact/
   - title: "About"
     url: /about/
-  - title: "Tags"
-    url: /tags/
+
