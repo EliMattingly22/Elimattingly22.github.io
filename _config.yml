@@ -100,9 +100,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  Art:
+  art:
     output: true
     permalink: /:collection/:path/
-  Research:
+  research:
     output: true
     permalink: /:collection/:path/
