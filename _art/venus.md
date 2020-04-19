@@ -17,7 +17,8 @@ tags:
 ---
 
 This sculpture is a marble carving I did with traditional means (hammer, chisels, etc.) in Florence, Italy in the summer of 2015 under the guidance of Jason Arkles. Here are a few more pictures. 
-[](/assets/images/Projects/Art/Venus/DSC_3702.jpg)
-[](/assets/images/Projects/Art/Venus/DSC_3707.jpg)
-[](/assets/images/Projects/Art/Venus/DSC_3713.jpg)
-[](/assets/images/Projects/Art/Venus/DSC_3736.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/Projects/Art/Venus/DSC_3702.jpg){: .align-center}
+![]({{ site.url }}{{ site.baseurl }}/assets/images/Projects/Art/Venus/DSC_3707.jpg){: .align-center}
+![]({{ site.url }}{{ site.baseurl }}/assets/images/Projects/Art/Venus/DSC_3713.jpg){: .align-center}
+![]({{ site.url }}{{ site.baseurl }}/assets/images/Projects/Art/Venus/DSC_3736.jpg){: .align-center}
+
