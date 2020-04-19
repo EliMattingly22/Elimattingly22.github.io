@@ -24,7 +24,7 @@ feature_row:
     btn_label: "Research Projects"
     btn_class: "btn--primary"
 
-feature_row_2:
+feature_row2:
   - image_path: /assets/images/Projects/Sinogram/Phantom_Sinogram_Animation.gif
     image_caption: "My marble carving inspired by the Venus de Milo"
     alt: "placeholder image 1"
@@ -49,4 +49,4 @@ feature_row_2:
 
 {% include feature_row %}
 
-{% include feature_row_2 %}
+{% include feature_row id="feature_row2" type="left" %}
