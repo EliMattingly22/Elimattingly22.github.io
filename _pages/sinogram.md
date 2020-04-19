@@ -50,3 +50,5 @@ feature_row2:
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Projects/Sinogram/Phantom_Sinogram_Animation_Recon.gif){: .align-center}
