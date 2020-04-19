@@ -32,7 +32,7 @@ feature_row:
 
 
 ---
-{% include feature_row %}
+
 # Sinograms!
 
 So first, why am I so excited about these that it is the banner of *every* page and is the first standalone page I am writing? Well, as I'll hopefully be able to convey, these swirly abstract shapes contain a lot of really interesting math, are the basis for a lot of work I do day-to-day, and frankly I think they are art in their own right. It really embodies a lot of what I want this page to be about: cool engineering, and (my attempts at) art.
