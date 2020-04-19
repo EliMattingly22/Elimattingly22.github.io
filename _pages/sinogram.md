@@ -1,7 +1,7 @@
 ---
 permalink: /sinogram/
-title: "Sinograms"
-layout: single
+title: "This banner is a sinogram!"
+layout: splash
 header:
   overlay_image: /assets/images/Sinogram.jpg
   overlay_filter: 0.5
