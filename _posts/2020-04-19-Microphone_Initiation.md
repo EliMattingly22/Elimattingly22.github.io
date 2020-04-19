@@ -29,7 +29,9 @@ With any engineering project there needs to be an end-goal. Something specific t
 
 # Project breakdown
 
-The actual microphone sensing element is just one part of the system, so to wrap my head around what I need to make I find it helpful to list out everything that goes into it. Below is a little sketch of my ideas. 
+![Project_Breakdown]({{ site.url }}{{ site.baseurl }}/assets/images/Projects/Hobby/Mic/Schematic_Overview.png){: .align-center}
+
+The actual microphone sensing element is just one part of the system, so to wrap my head around what I need to make I find it helpful to list out everything that goes into it. Above is a little sketch of my ideas. 
 
 From signal source to the recorded file:
 * Obviously there is the audio source. A person talking, or whatever.
@@ -41,5 +43,20 @@ From signal source to the recorded file:
 * The wires going from my microphone circuit to the computer
 * Power supply, and the “ground” 
 * Some sort of enclosure and all the bells and whistles that go with that. 
+* A stand that can hold the microphone without having physical bumps manifest into noise.
+
+I'll make a post about each of these going into details from a design perspective, but for now here are some resources I have found helpful:
+
+* [EEVBlog's YouTube series about microphones](https://www.youtube.com/watch?v=ihAG6cMpUlY) In these 7 videos he hosts Doug Ford, former head designer at Rode Microphones and gets into the weeds of microphone design from an electrical engineering perspective. It's great. 
+* [Analog/LT's guide to microphone sensitivity](https://www.analog.com/en/analog-dialogue/articles/understanding-microphone-sensitivity.html). This is a great starting place because it clearly describes commonly used specifications like what "Sensitivity" actually means in this context. It also gives a baseline for what is good regarding noise levels.
+* [My New Microphone Blog's post on SNR]( https://mynewmicrophone.com/what-is-a-good-signal-to-noise-ratio-for-a-microphone/)
+
+
+
+
+
+
+
+
 
 
