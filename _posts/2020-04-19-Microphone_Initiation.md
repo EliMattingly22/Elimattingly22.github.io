@@ -1,0 +1,19 @@
+---
+title: "Welcome!"
+date: 2020-04-18T15:34:30-04:00
+categories:
+  - blog
+tags:
+  - admin
+  - update
+  
+sidebar:
+layout: single
+
+---
+
+
+Well, let's see how this goes. 
+
+Right now, this site is filled with place-holders and links that lead nowhere, but hopefully, in time it will become a bit more cohesive. While my goals for this site, in the long run, are fairly ambiguous, there are a few things for certain: first, I'd like it to be a static record of what I've worked on, like a casual portfolio, second by forcing myself to document my projects to be self-standing I think I'll learn a lot along the way. Lastly, and perhaps most importantly, I've learned easily a degree's worth of information from scattered articles and Youtube videos that others have published, and I feel like I should do my part by contributing.Oh, and run-on sentences -- I want to force people to read unnecessarily long sentences.
+

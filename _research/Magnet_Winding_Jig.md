@@ -18,12 +18,12 @@ gallery:
   - url: /assets/images/Projects/Engineering/MPI/Winding/Wound_Coil.jpg
     image_path: /assets/images/Projects/Engineering/MPI/Winding/Wound_Coil.jpg
     alt: "Image of a wound coil"
-excerpt_separator: <!--more-->
+
 ---
+This is one of the projects as part of the Open-Source MPI initiative that I have worked on. The goal was to build a device that can wind large-scale magnets (>1m long, with 6mm square wire) in a consistent manner. 
 
+# [Link to Files](https://github.com/OS-MPI/Winding_Jig)
 
-This is the device designed by the MGH/MIT group to assist in the manufacture of electromagnets. 
-# [Link to Files](https://github.com/OS-MPI/MPS)
-<!--more-->
-# [Link to Wiki](https://github.com/OS-MPI/MPS/wiki)
+# [Link to Wiki](https://github.com/OS-MPI/Winding_Jig/wiki)
+
 {% include gallery caption="Sample images" %}
