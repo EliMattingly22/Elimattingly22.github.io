@@ -2,8 +2,8 @@
 title: "Untitled"
 excerpt: "An installation sculpture I built for my final project in the sculpture class at MassArt"
 layout: single
-header: /assets/images/Projects/Art/Mattingly-9.jpg
-teaser: /assets/images/Projects/Art/Mattingly-9.jpg
+header:
+  teaser: /assets/images/Projects/Art/Mattingly-9.jpg
 sidebar:
   - title: "Untitled"
   - title: "Medium"
