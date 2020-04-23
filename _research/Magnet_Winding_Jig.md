@@ -1,6 +1,6 @@
 ---
-title: "Winding Jig"
-excerpt: "A machine to help manufacture electromagnets"
+title: "Electromagnet winding Jig"
+excerpt: "A machine to help manufacture large electromagnets"
 layout: single
 header:
   teaser: /assets/images/Projects/Engineering/MPI/Winding/Jig_Image.png
