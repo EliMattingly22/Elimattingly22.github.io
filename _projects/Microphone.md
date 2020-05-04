@@ -23,6 +23,7 @@ gallery:
 ---
 
 There's not much here yet, but I'll update it as I go.
+# [Link to blog posts](https://elimattingly22.github.io/tags/#microphone)
 # [Link to Files](https://github.com/EliMattingly22/HomemadeMic)
 
 
