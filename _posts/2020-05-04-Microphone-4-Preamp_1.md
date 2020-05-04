@@ -10,8 +10,6 @@ tags:
 sidebar:
 layout: single
 ---
-
-
 # Pre-amplifier 1
 
 ![Project_Breakdown]({{ site.url }}{{ site.baseurl }}/assets/images/Projects/Hobby/Mic/Schematic_Overview.png){: .align-center}
