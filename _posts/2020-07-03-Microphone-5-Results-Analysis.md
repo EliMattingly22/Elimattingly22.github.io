@@ -41,7 +41,7 @@ Now here is a "Blue Snowball" conenser microphone. It is ~$50 and gets very posi
 </audio>
 
 
-I also played with using my oscilloscope to record the audio (USB from the scope to my computer and saving the data in the EasyScope application). When I record this way it sounds terrible. The scope I was using only has an 8-bit ADC (analog to digital converter), so when you look at the waveforms it is immediately apparent that there is a digitizing error. To be continued...
+I also played with using my oscilloscope to record the audio (USB from the scope to my computer and saving the data in the EasyScope application). When I record this way it sounds terrible. The scope I was using only has an 8-bit ADC (analog to digital converter), so when you look at the waveforms it is immediately apparent that there is a digitizing error. 
 
 
 <audio controls>
@@ -49,7 +49,38 @@ I also played with using my oscilloscope to record the audio (USB from the scope
   <source src="/assets/Audio/Microphone/InitialTesting/Scope_Recording/siglent_Data_Speaking_MicOpen.wav" type="audio/wav">
 </audio>
 
-The other 
+This bring up an interesting point, about sampling rate (I'll get to hardware eventually, I promise). The scope can sample at hundreds of MHz, but there is only 8 bits of accuracy, and for audio purposes, ideally you would like up to 16 bits and 50kHz is plenty fast for sampling (Nyquist requires 34kHz if you can only hear up to 17kHz or so, and most audio is closer to 1-4kHz). To first demonstrate this in a bit of an extreme case, here are four audio clips: Raw audio from my microphone, that same audio digitized to 8-bits,6-bits,and 5-bits. Script (here)[/assets/Audio/Microphone/InitialTesting/Digitizing_Decimating]
+<audio controls>
+  <source src="/assets/Audio/Microphone/InitialTesting/Digitizing_Decimating/Speaking_Me.ogg" type="audio/ogg">
+</audio>
+
+<audio controls>
+  <source src="/assets/Audio/Microphone/InitialTesting/Digitizing_Decimating/Speaking_Me_8bit.ogg" type="audio/ogg">
+</audio>
+
+<audio controls>
+  <source src="/assets/Audio/Microphone/InitialTesting/Digitizing_Decimating/Speaking_Me_6bit.ogg" type="audio/ogg">
+</audio>
+
+<audio controls>
+  <source src="/assets/Audio/Microphone/InitialTesting/Digitizing_Decimating/Speaking_Me_5bit.ogg" type="audio/ogg">
+</audio>
+
+While 5-bits sounds horrible, if you add a decimate it by a factor of 8 (according to MATLAB's documentation, "By default, decimate uses a lowpass Chebyshev Type I infinite impulse response (IIR) filter of order 8") Basically, it reduces the sampling rate by a factor N (8 here) and smooths out the data some. It is not a rolling average, though. Here is just the decimated sound:
+
+<audio controls>
+  <source src="/assets/Audio/Microphone/InitialTesting/Digitizing_Decimating/Speaking_Me_5bit_NoNoise_Decimate.ogg" type="audio/ogg">
+</audio>
+
+But decimation has a challenge-- if the data is too quiet (i.e. there isn't enough noise), then it just has digital flats as the original did. But if the data is a little noisy and jumps around, the decimation can work properly. And to be clear, the noise needs to be added *before* the digitization, not after. If the noise is after the digitization the decimation will just smooth out that noise and not work properly. Below is a sound clip that has noise added to the raw data roughly to the level of 1 least significant bit (2^-4) for 5 bit.
+
+
+<audio controls>
+  <source src="/assets/Audio/Microphone/InitialTesting/Digitizing_Decimating/Speaking_Me_5bit_Noiseadd_Decimate.ogg" type="audio/ogg">
+</audio>
+
+
+  
 
 
 ![ ]({{ site.url }}{{ site.baseurl }}/assets/images/Projects/Hobby/Mic/Data-Figures/siglent_Data_Speaking_MicOpen_CropZoomData_WithExported.png){: .align-center}
