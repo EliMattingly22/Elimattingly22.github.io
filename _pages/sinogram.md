@@ -44,7 +44,7 @@ To me, the real interesting application of these sinograms to me is image recons
 Magnetic Particle Imaging (MPI) works similarly (sometimes) except it doesn't use X-Rays, instead it used magnets to move a sensitive line through the imaging region, and while the physics behind MPI are a topic for another time for now you can compare this sensitive line to the X-Ray beams in CT. In the first video below what you are seeing is an image in the bottom right (arbitrarily the letter P) have green line pass over it. This green line represents the sensitive line in MPI or the X-Rays (so the beam would go from right to left), and then the intensity of the pixels along the line are added together and plotted on the left. These values make up a "projection" because you are projecting a 2D image onto a single line. You will also notice that as the green line moves one of the columns on top starts filling in. The colors on top are just a different color-based representation of the data in any given projection. It is worth noting that the thickness of these columns is purely to make it easier to see-- it doesn't mean anything and it is a 1D data set.
 
 <video controls>
-  <source src="/assets/images/Projects/Sinogram/P_Letter_Proj_Build_1.mp4" type="video/mp4">
+  <source src="/assets/images/Projects/Sinogram/P-Letter-Proj-Build-1.mp4" type="video/mp4">
 </video>  
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Projects/Sinogram/Phantom_Sinogram_Animation_Recon.gif){: .align-center}
