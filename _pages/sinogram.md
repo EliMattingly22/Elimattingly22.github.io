@@ -47,6 +47,13 @@ Magnetic Particle Imaging (MPI) works similarly (sometimes) except it doesn't us
   <source src="/assets/images/Projects/Sinogram/P-Letter-Proj-Build-1.mp4" type="video/mp4">
 </video>  
 
+Those projections next to each other on top are a sinogram! Now, we can use these to figure out what the initial image looked like.
+
+
+<video controls>
+  <source src="/assets/images/Projects/Sinogram/P-Letter-Proj-Recon1.mp4" type="video/mp4">
+</video>  
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Projects/Sinogram/Phantom_Sinogram_Animation_Recon.gif){: .align-center}
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Projects/Sinogram/Phantom_Sinogram_Animation.gif){: .align-center}
