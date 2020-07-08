@@ -51,7 +51,7 @@ Now if you rotated the box 90 degrees and the spheres didn't move, you would see
 
 
 Magnetic Particle Imaging (MPI) works similarly (sometimes) except it doesn't use X-Rays. Instead MPI uses magnets to move a sensitive line through the imaging region, and while the physics behind MPI are a topic for another time for now you can compare this sensitive line to the X-Ray beams in CT. In the first video below what you are seeing is an image in the bottom right (arbitrarily the letter P) have green line pass over it. This green line represents the sensitive line in MPI or the X-Rays (so the beam would go from right to left), and then the intensity of the pixels along the line are added together and plotted on the left. These values make up a "projection" because you are projecting a 2D image onto a single line. You will also notice that as the green line moves one of the columns on top starts filling in. The colors on top are just a different color-based representation of the data in any given projection. It is worth noting that the thickness of these columns is purely to make it easier to see-- it doesn't mean anything and it is a 1D data set. After the green line finishes the sweep of the image and the projection is complete the image rotates by a few degrees, and the process repeats. After the object has finished rotating a full 180 degrees the process is complete and the columns stacked next to each other is the sinogram!
-Script that made this is (Here)[/assets/images/Projects/Sinogram/Sinogram_Animation_Squares2.m]
+Script that made this is [Here](/assets/images/Projects/Sinogram/Sinogram_Animation_Squares2.m)
 <video controls>
   <source src="/assets/images/Projects/Sinogram/P_Letter_Proj_Build_2.mp4" type="video/mp4">
 </video>  
