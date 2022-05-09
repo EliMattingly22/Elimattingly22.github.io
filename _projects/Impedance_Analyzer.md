@@ -13,10 +13,7 @@ sidebar:
 
 
 author_profile: true   
-gallery:
-  - url: /assets/images/Projects/Hobby/Electronic-Load/HP6060_Sch_Capture.PNG
-    image_path: /assets/images/Projects/Hobby/Electronic-Load/HP6060_Sch_Capture.PNG
-    alt: "UPDATE - Wrong figure"
+
 
 ---
 
@@ -44,7 +41,3 @@ http://web.mit.edu/6.101/www/reference/M3LCR_manual.pdf
 ## **Circuit Described**
 
 The first version uses an I-V measurement approach with no solid buffer, but I quickly learned this method has many downsides. It is very functional and accurate, but has significant room to improve. The next revision uses the auto-balancing bridge, as is the standard in the field and improved buffers to allow for more current in low-impedance loads.
-
-
-
-{% include gallery %}

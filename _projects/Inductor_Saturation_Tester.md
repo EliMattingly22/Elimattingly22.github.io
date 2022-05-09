@@ -13,10 +13,7 @@ sidebar:
 
 
 author_profile: true   
-gallery:
-  - url: /assets/images/Projects/Hobby/Electronic-Load/HP6060_Sch_Capture.PNG
-    image_path: /assets/images/Projects/Hobby/Electronic-Load/HP6060_Sch_Capture.PNG
-    alt: "UPDATE - Wrong figure"
+
 
 ---
 
@@ -34,8 +31,4 @@ https://www.eevblog.com/forum/projects/inductor-saturation-tester-alternative-ro
 
 
 ## **Circuit Described**
-The circuit uses a large capacitor bank to ramp the current up in the inductor until the preset threshold is reached. In an inductor, V = L dI/dt. If L is linear, with a constant V, the rate of current increase will be linear. As it saturates, the inductance goes down, so the slope increases. 
-
-
-
-{% include gallery %}
+The circuit uses a large capacitor bank to ramp the current up in the inductor until the preset threshold is reached. In an inductor, V = L dI/dt. If L is linear, with a constant V, the rate of current increase will be linear. As it saturates, the inductance goes down, so the slope increases.
