@@ -1,5 +1,5 @@
 ---
-title: "PotterySummer22"
+title: "Pottery Summer 22"
 excerpt: "A selection of pottery from the second semester"
 layout: single
 header:
